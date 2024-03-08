@@ -72,7 +72,7 @@ class CreateLoginForm extends JFrame implements ActionListener
             page.getContentPane().add(wel_label);  
         }  
         else{  
-            //show error message on the system  
+            //show error message  
             System.out.println("Please enter valid username and password");  
         }  
     }  
